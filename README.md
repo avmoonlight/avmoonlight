@@ -13,12 +13,14 @@
 
 ### 🚀 Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
-![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0D1117?style=for-the-badge&logo=raspberry-pi&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=48D1CC)&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0D1117?style=for-the-badge&logo=raspberry-pi&logoColor=bc1142)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00758f)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=f29111)&nbsp;
+
 
 ---
 
