@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4ddb&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4ddb&size=35&center=true&vCenter=true&width=1000&lines=HELLO!,+MY+NAME+IS+ANA+MARTINS;TENHO+17+ANOS;I+AM+FROM+Jundiaí,+São+Paulo;I+AM+A+SYSTEMS+DEVELOPMENT+STUDENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4ddb&size=35&center=true&vCenter=true&width=1000&lines=HELLO!,+MY+NAME+IS+ANA+MARTINS;I+HAVE+17+YEARS+OLD;I+AM+FROM+Jundiaí,+São+Paulo;I+AM+A+SYSTEMS+DEVELOPMENT+STUDENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=avmoonlight&show_icons=true&count_private=true&hide_border=true&title_color=ff4ddb&icon_color=ff4ddb&text_color=ff4ddb&bg_color=0d1117" alt="Ana Martins GitHub stats" /> 
