@@ -2,6 +2,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8000ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+I+AM+ANA+MARTINS;17+YEARS+OLD;FROM+Jundiaí,+São+Paulo;SYSTEMS+DEVELOPMENT+STUDENT;WELCOME!+:%29)](https://git.io/typing-svg)
 
+### 📊 GitHub Stats:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=avmoonlight&show_icons=true&count_private=true&hide_border=true&title_color=8000ff&icon_color=8000ff&text_color=8000ff&bg_color=0d1117" alt="Ana Martins GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avmoonlight&layout=compact&hide_border=true&title_color=8000ff&text_color=8000ff&bg_color=0d1117" />
+</div>
+
+[![Ana's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avmoonlight&bg_color=0d1117&color=8000ff&line=8000ff&point=8000ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 👀 Visitor Counter:
+<div align="center">
+<br><p align="center"><b>Visitor Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{avmoonlight}/count.svg" /></p> 
+<br></div>
+
 ---
 
 ### 🧠 Currently Learning:
@@ -35,24 +51,6 @@
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117)](https://www.linkedin.com/in/ana-martins-9a344631b/)
 
-
----
-
-### 📊 GitHub Stats:
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=avmoonlight&show_icons=true&count_private=true&hide_border=true&title_color=8000ff&icon_color=8000ff&text_color=8000ff&bg_color=0d1117" alt="Ana Martins GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avmoonlight&layout=compact&hide_border=true&title_color=8000ff&text_color=8000ff&bg_color=0d1117" />
-</div>
-
-[![Ana's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avmoonlight&bg_color=0d1117&color=8000ff&line=8000ff&point=8000ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 👀 Visitor Counter:
-<div align="center">
-<br><p align="center"><b>Visitor Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{avmoonlight}/count.svg" /></p> 
-<br></div>
 
 ---
 
