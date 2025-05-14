@@ -33,7 +33,8 @@
 ---
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117)]([https://www.linkedin.com/in/ana-martins-dev](https://www.linkedin.com/in/ana-martins-9a344631b/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117)](https://www.linkedin.com/in/ana-martins-9a344631b/)
+
 
 ---
 
