@@ -11,8 +11,13 @@
 
 ---
 
-### 🔥 GitHub Activity:
-[![Ana's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avmoonlight&bg_color=0d1117&color=8000ff&line=8000ff&point=8000ff&area=true&hide_border=true)](https://github.com/avmoonlight)
+### 🔥 GitHub Stats
+
+![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avmoonlight&show_icons=true&theme=radical&hide=contribs)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=avmoonlight&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avmoonlight&layout=compact&theme=radical)
 
 ---
 
