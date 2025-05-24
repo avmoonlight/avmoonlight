@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avmoonlight&layout=compact&hide_border=true&title_color=8000ff&text_color=8000ff&bg_color=0d1117" />
 </div>
 
-[![Ana's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avmoonlight&bg_color=0d1117&color=8000ff&line=8000ff&point=8000ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ana's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avmoonlight&bg_color=0d1117&color=8000ff&line=8000ff&point=8000ff&area=true&hide_border=true)](https://github.com/avmoonlight/github-readme-activity-graph)
 
 ---
 
