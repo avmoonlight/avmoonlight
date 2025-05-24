@@ -7,11 +7,14 @@
 
 ### 🔥 GitHub Stats
 
-![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avmoonlight&show_icons=true&theme=radical&hide=contribs)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avmoonlight&show_icons=true&theme=radical&hide=contribs"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=avmoonlight&theme=radical"/>
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=avmoonlight&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avmoonlight&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avmoonlight&layout=compact&theme=radical" />
+</div>
 
 ---
 
