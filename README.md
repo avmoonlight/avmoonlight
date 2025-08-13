@@ -7,15 +7,7 @@
 <br>
 <br>
 
-<p align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api?username=avmoonlight&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true" /> </p> <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avmoonlight&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avmoonlight&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-
----
-
-### 👀 Visitor Counter:
-<div align="center">
-  <p><b>Visitor Count</b></p>  
-  <img src="https://profile-counter.glitch.me/avmoonlight/count.svg" />
-</div>
+<p align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api?username=avmoonlight&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true" /> 
 
 ---
 
