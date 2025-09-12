@@ -40,9 +40,4 @@
 
 ---
 
-### 💻 Profiles:
-[![blog](https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ana-martins/](https://www.linkedin.com/in/ana-martins-9a344631b/))  
-
----
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
