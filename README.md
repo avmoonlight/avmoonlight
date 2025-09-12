@@ -41,7 +41,7 @@
 ---
 
 ### 💻 Profiles:
-[![blog](https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-martins/)  
+[![blog](https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ana-martins/](https://www.linkedin.com/in/ana-martins-9a344631b/))  
 
 ---
 
