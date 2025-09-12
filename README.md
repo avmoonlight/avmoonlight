@@ -42,8 +42,6 @@
 
 ### 💻 Profiles:
 [![blog](https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-martins/)  
-[![blog](https://img.shields.io/badge/Google_Cloud-800080?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/)  
-[![Credly](https://img.shields.io/badge/Credly-Perfil_Ativo-800080?logo=credly&style=for-the-badge)](https://www.credly.com/users/ana-martins)
 
 ---
 
