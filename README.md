@@ -11,11 +11,6 @@
 
 ---
 
-### 🧠 Studying in this moment:
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=800080);
-
----
-
 ### 🚀 Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&color=800080)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=800080&labelColor=0D1117&color=0D1117)&nbsp; 
